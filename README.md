@@ -3,4 +3,4 @@ In mathematics, the Fibonacci numbers, commonly denoted Fn form a sequence, call
 
 The beginning of the sequence is thus: 
 0,1,1,2,3,5,8,13,21,34,55,89,144 , 
-[for more info] !(https://en.wikipedia.org/wiki/Fibonacci_number)
+[for more info] ![https://en.wikipedia.org/wiki/Fibonacci_number]
